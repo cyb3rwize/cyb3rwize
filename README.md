@@ -5,7 +5,7 @@
 ## 🧠 About Me
 
 - 🏢 **Founder & Developer** at [@ODIN-ZeroDay](https://github.com/ODIN-ZeroDay)
-- 🔭 **Building:** ZeroDay Hunter v2.0 — AI-powered bug bounty automation
+- 🔭 **Building:** ZeroDay Hunter v1.0 — AI-powered bug bounty automation
 - 🎯 **Focus:** Vulnerability research, security tooling, automation
 - ⚡ **Philosophy:** *"Find the unknown before it finds you"*
 
@@ -19,12 +19,12 @@
 
 ## 🏆 Featured Project
 
-### 🔥 ZeroDay Hunter v2.0
+### 🔥 ZeroDay Hunter v1.0
 
 An intelligent bug bounty automation platform that:
 
 - 🔍 Maps entire attack surfaces automatically
-- 🧠 Uses advanced AI to find hidden vulnerabilities
+- 🧠 Uses advanced detection to find hidden vulnerabilities
 - 📊 Scores findings with confidence ratings
 - 🔗 Discovers multi-step attack chains
 - 📚 Gets smarter with every scan
